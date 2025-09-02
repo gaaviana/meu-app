@@ -5,7 +5,7 @@ export default function App() {
   return (
     <>
     <View style={styles.container}>
-      <Text style={styles.text}>BÃO?</Text>
+      <Text style={styles.text}>🖕</Text>
       <StatusBar style="light" />
     </View>
 
